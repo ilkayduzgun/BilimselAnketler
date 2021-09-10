@@ -1,0 +1,30 @@
+#screen3{
+    height: 680px;
+}
+
+#third-text{
+  margin-top: 260px;
+  padding-left: 100px;
+}
+
+p{
+    color: #7d7d7d;
+    font-size: 19px;
+  }
+  h1{
+    font-weight: 760;
+    color: #333;
+  }
+  img{
+    margin-top: 180px;
+    float: right;
+    margin-right: 90px;
+  }
+  .btn{
+    border: solid 0.4px #226ce0;
+    color: #226ce0;
+    margin-top: 20px;
+    font-size: 13px;
+    width: 150px;
+    height: 35px;
+  }

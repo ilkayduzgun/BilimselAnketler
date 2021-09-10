@@ -5,12 +5,23 @@ import{FormsModule} from '@angular/forms';
 import { AppComponent } from './app.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import {NgbPaginationModule, NgbAlertModule} from '@ng-bootstrap/ng-bootstrap';
+import { NavbarComponent } from './navbar/navbar.component';
+import { Screen1Component } from './screen1/screen1.component';
+import { Screen2Component } from './screen2/screen2.component';
+import { Screen3Component } from './screen3/screen3.component';
+import { Screen4Component } from './screen4/screen4.component';
+
 
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    NavbarComponent,
+    Screen1Component,
+    Screen2Component,
+    Screen3Component,
+    Screen4Component
   ],
   imports: [
    [NgbPaginationModule, NgbAlertModule],

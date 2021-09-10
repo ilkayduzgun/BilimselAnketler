@@ -1,0 +1,34 @@
+#screen2{
+    height: 680px;
+}
+.btn{
+    margin-top: 20px;
+   font-size: 13px;
+   width: 150px;
+   height: 35px;
+   border-radius: 4px;
+   font-stretch: normal;
+   font-style: normal;
+   line-height: 1.13;
+   letter-spacing: normal;
+   text-align: center;
+  }
+  #second-text{
+      float: left;
+      margin-top: 290px;
+      margin-left: 130px;
+  }
+  p{
+    color: #7d7d7d;
+    font-size: 19px;
+  }
+  h1{
+    font-weight: 760;
+    color: #333;
+  }
+  img{
+    float: right;
+    margin-top: -240px;
+    
+  }
+  
