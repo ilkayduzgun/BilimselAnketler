@@ -1,0 +1,10 @@
+img{
+    width: 100%;
+}
+ngb-carousel{
+    width: 118%;
+}
+ 
+#carousel{
+    float: right;
+}

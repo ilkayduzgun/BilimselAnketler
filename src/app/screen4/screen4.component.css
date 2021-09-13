@@ -1,9 +1,37 @@
+#screen4{
+    width: 100%;
+}
 h6{
-    font-size: 16px; 
-    font-weight: bold;
+    font-size: 19px; 
+    font-weight: 500;
     color: #333;
+    margin-top: 15px;
 }
 p{
     color: #7d7d7d;
-    font-size: 13px;
+    font-size: 15px;
+    width: 220px;
+    margin: auto;
 }
+#screen4-div{
+    margin-top: 5px;
+}
+.btn{
+    font-size: 15px;
+    font-weight: 500;
+    width: 317px;
+    height: 43px;
+    margin-left: 20px;
+    border-radius: 4px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.13;
+    letter-spacing: normal;
+    text-align: center;
+    border: solid 0.4px #226ce0;
+    color: #226ce0;
+  }
+  #btn7-div{
+      text-align: center;
+  }
+ 

@@ -1,5 +1,6 @@
 #screen2{
     height: 680px;
+    width: 100%;
 }
 .btn{
     margin-top: 20px;
@@ -15,8 +16,8 @@
   }
   #second-text{
       float: left;
-      margin-top: 290px;
-      margin-left: 130px;
+      margin-top: 210px;
+      margin-left: 120px;
   }
   p{
     color: #7d7d7d;
@@ -28,7 +29,7 @@
   }
   img{
     float: right;
-    margin-top: -240px;
+    margin-top: -260px;
     
   }
   

@@ -1,0 +1,35 @@
+#screen5{
+  width: 100%;
+}
+.btn{
+   margin-top: 20px;
+    font-size: 14px;
+    width: 250px;
+    height: 40px;
+    border-radius: 4px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.13;
+    letter-spacing: normal;
+    text-align: center;
+    border: solid 0.4px #226ce0;
+    color: #226ce0;
+  }
+  p{
+    color: #7d7d7d;
+    font-size: 19px;
+  }
+  h1{
+    font-weight: 760;
+    color: #333;
+  }
+  #fourth-text{
+    float: left;
+    margin-top: 220px;
+    margin-left: 120px;
+  }
+  
+  .carousel{
+  float: right;
+   margin-top:-250px;
+  }

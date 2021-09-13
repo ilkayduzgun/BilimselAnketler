@@ -1,25 +1,26 @@
-#screen3{
+#screen6{
     height: 680px;
     width: 100%;
 }
 
-#third-text{
-  margin-top: 100px;
-  padding-left: 100px;
+#fifth-text{
+  margin-top: 250px;
+  padding-left: 80px;
 }
 
 p{
     color: #7d7d7d;
     font-size: 19px;
+    font-weight: 450;
   }
   h1{
     font-weight: 760;
     color: #333;
   }
   img{
-    margin-top:20px;
-    float: right;
-    margin-right: 90px;
+    margin-top: 170px;
+    float: left;
+    padding-left: 60px;
   }
   .btn{
     border: solid 0.4px #226ce0;
